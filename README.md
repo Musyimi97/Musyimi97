@@ -3,9 +3,9 @@
 ## I'm a Full stack Developer, Technology Enthusiast, Movie Buff,  Traveller and Great Cook!!
 
 - 🌱 I’m currently exploring new things in technology. 🤣
-- 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ I love to play cricket, badminton and i love to cook.
+- ⚡ I love totravel, play video games and i love to cook.
+- 
 
 ### Spotify Playing 🎧
 
@@ -49,8 +49,8 @@
   <img align="left" alt="Collin's GitHub Stats" src="https://github-readme-stats.musyimi97.vercel.app/api?username=Musyimi97&show_icons=true&hide_border=true" />
 
 
-[blog]: https://eresh-zealous.medium.com/
-[linkedin]: https://www.linkedin.com/in/eresh-gorantla-bb8b2722/
-[stackoverflow]: https://stackoverflow.com/users/1873344/eresh
-[facebook]:https://www.facebook.com/eresh.gorantla/
+[blog]: https://collinsmusyimi.medium.com/
+[linkedin]: https://www.linkedin.com/in/collins-musyimi-aa8074163/
+[stackoverflow]: https://stackoverflow.com/users/11227110/collins-musyimi
+[twitter]:https://twitter.com/CollinsArles2
 
