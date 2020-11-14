@@ -46,7 +46,7 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="Collin's GitHub Stats" src="https://github-readme-stats.eresh.vercel.app/api?username=Musyimi97&show_icons=true&hide_border=true" />
+  <img align="left" alt="Collin's GitHub Stats" src="https://github-readme-stats.eresh.vercel.app/api?username=musyimi97&show_icons=true&hide_border=true" />
   <b>⚡ My Dev Statistics</b>
 
 <p>
