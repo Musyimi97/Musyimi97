@@ -47,7 +47,7 @@
 ### :zap: GitHub Stats
 
 
-  <b>⚡ My Dev Statistics</b>
+
 
 <p>
 <!-- GitHub Stats -->
