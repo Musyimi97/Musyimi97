@@ -7,10 +7,6 @@
 - ⚡ I love totravel, play video games and i love to cook.
 - 
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.musyimi97.vercel.app/api/spotify)](https://open.spotify.com/user/p7j25dq47z5todjejtty0d8g7)
-
 ### Connect with me 
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
@@ -48,6 +44,6 @@
 
 
 
-<p>
+
 
 
